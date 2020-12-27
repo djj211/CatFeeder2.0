@@ -1,0 +1,7 @@
+{
+  "credentials": {
+    "user": "{USER_HERE}",
+    "password": "{PASS_HERE}",
+    "url": "{URL_HERE}"
+  }
+}

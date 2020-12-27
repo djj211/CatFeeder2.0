@@ -1,0 +1,10 @@
+{
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+  

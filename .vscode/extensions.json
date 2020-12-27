@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-tslint-plugin", // highlighting in Code of linting errors
+    "esbenp.prettier-vscode" // auto formatting of source on save according to prettier config rules
+  ]
+}
