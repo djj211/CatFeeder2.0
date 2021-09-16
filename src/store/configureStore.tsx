@@ -1,6 +1,6 @@
 import { createStore, applyMiddleware, compose } from "redux";
 import { persistStore, persistReducer, createTransform } from "redux-persist";
-import AsyncStorage from "@react-native-community/async-storage";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import rootReducer from "./rootReducer";
 import * as Middleware from "./middleware";
 import { Api } from "../Api/Api";
